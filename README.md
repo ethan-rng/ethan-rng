@@ -2,7 +2,7 @@
 
 My name is Ethan Rong and I am a second year CS 💻/business 📈 student from the University of Western Ontario **🟪⬜**. My primary interests reside in applications of machine learning 🤖 and backend design including API design and I always eager to take on a new challenge!
  
-## 💡 Skills
+## 🛠  Languages and Skills
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="50" />&nbsp;
