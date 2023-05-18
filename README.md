@@ -11,11 +11,11 @@ I've primarily work with Python libaries such as **pandas 🐼**, **numpy 🔢**
  &nbsp; &nbsp;  **3.** My favourite meal 🍽️ to cook is pork tonkatsu 🍛 on a nice warm bed of rice. <br>
 
 ## 🔭 Some Projects I've Worked On
-  * [SpotifyBot 🤖](https://github.com/ethan-rng/spotifyBot) - A (work in progress)
-  * [nourishNow 🍲](https://devpost.com/software/norishnow) - A quick 
-  * [HoverTouch 🚁](https://devpost.com/software/hovertouch) - 
-  * [eyeExplore 🔍](https://devpost.com/software/eyeexplore) -
-  * [Connect Four 4️⃣](https://github.com/ethan-rng/connectFour) - 
+  * [SpotifyBot 🤖](https://github.com/ethan-rng/spotifyBot) - A spotify-to-mp3 downloader that allows users to access spotify-premium like features *(work in progress)*
+  * [nourishNow 🍲](https://devpost.com/software/norishnow) - An application of the LSTM recural neural network that predicts future costs and demand for WIC food program
+  * [HoverTouch 🚁](https://devpost.com/software/hovertouch) - A video-to-text based technology that converts gestures and air-drawn messages into text
+  * [eyeExplore 🔍](https://devpost.com/software/eyeexplore) - A generative-AI app that converts live video into audio descriptions for the visually-impaired
+  * [Connect Four 4️⃣](https://github.com/ethan-rng/connectFour) - A version of the classic ConnectFour game that you can play with your friends over the LAN
 
 ## 📫 How to reach me:
 ```javascript
