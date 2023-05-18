@@ -17,7 +17,9 @@ My name is Ethan Rong and I am a second year CS 💻/business 📈 student from 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-
+</p>
+<p>
+ I've primarily work with Python libaries such as pandas 🐼, numpy 🔢 and Flask ⚗️, but have dabbled in front-end JS libaries such as React 😮 and tailwind. On top of Python and JS, I've also coded with Java in my school 🏫 work and in my internship at the Ontario government.
 </p>
 
 ## ⚡ Fun facts about me
