@@ -1,21 +1,20 @@
-# Hi there 👋
+# Hi there 👋, My Name Is Ethan Rong (he/him).
 
 
+## 🔭 Some Fun Projects I've Worked On
+  * nourishNow 
+  * SpotifyBot 
+  * f 
 
-Here are some ideas to get you started:
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💡 Skills
+I've primarily worked with Python libaries such as **pandas**, **numpy** and **Flask**, but have dabbled in front-end JS frameworks such as **React** 
 
+## ⚡ Fun fact: ...
 
-## Project
-## - ⚡ Fun fact: ...
-
-## Skills
-## Get in Touch
+## 📫 How to reach me:
+```javascript
+const linkedIn = "https://www.linkedin.com/in/ethanrong2004/";
+const instagram = "https://www.instagram.com/ethan.rng/";
