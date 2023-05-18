@@ -12,7 +12,7 @@ I've primarily work with Python libaries such as **pandas 🐼**, **numpy 🔢**
 
 ## 🔭 Some Projects I've Worked On
   * [SpotifyBot 🤖](https://github.com/ethan-rng/spotifyBot) - A spotify-to-mp3 downloader that allows users to access spotify-premium like features *(work in progress)*
-  * [nourishNow 🍲](https://devpost.com/software/norishnow) - An application of the LSTM recurrent neural network that predicts future cost/demand for the WIC food program
+  * [nourishNow 🍲](https://devpost.com/software/norishnow) - A usage of the LSTM recurrent neural network that predicts future cost/demand for the WIC food program
   * [HoverTouch 🚁](https://devpost.com/software/hovertouch) - A video-to-text based technology that converts gestures and air-drawn messages into text
   * [eyeExplore 🔍](https://devpost.com/software/eyeexplore) - A generative-AI app that converts live video into audio descriptions for the visually-impaired
   * [Connect Four 4️⃣](https://github.com/ethan-rng/connectFour) - A version of the classic ConnectFour game that you can play with your friends over the LAN
