@@ -15,16 +15,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </p>
 My name is Ethan Rong and I am a second year CS 💻/business 📈 student from the University of Western Ontario 🟪⬜. My primary interests reside in applications of machine learning 🤖 and backend design including API design and I always eager to take on a new challenge!
- 
+
+## ⚡ Fun facts about me
+```javascript
+const funFacts = {
+     funFact1 : "1. I am proud owner of one cat 🐱 named Lubey who is a British short-hair breed.",
+     funFact2 : "2. I used to play the saxophone 🎷and piano 🎹 as a middle schooler.",
+     funFact3 : "3. My favourite meal 🍽️ to cook is pork tonkatsu 🍛 on a nice warm bed of rice."
+}
+``` 
 ## 🛠  Languages and Skills
 <p>
  I've primarily work with Python libaries such as pandas 🐼, numpy 🔢 and Flask ⚗️, but have dabbled in front-end JS libaries such as React 😮 and tailwind. On top of Python and JS, I've also coded with Java in my school 🏫 work and in my internship at the Ontario government.
 </p>
-
-## ⚡ Fun facts about me
- &nbsp; &nbsp;  **1.** I am proud owner of one cat 🐱 named Lubey who is a British short-hair breed. <br>
- &nbsp; &nbsp;  **2.** I used to play the saxophone 🎷and piano 🎹 as a middle schooler. <br>
- &nbsp; &nbsp;  **3.** My favourite meal 🍽️ to cook is pork tonkatsu 🍛 on a nice warm bed of rice. <br>
 
 ## 🔭 Some Projects I've Worked On
   * [SpotifyBot 🤖](https://github.com/ethan-rng/spotifyBot) - A spotify-to-mp3 downloader that allows users to access spotify-premium like features *(work in progress)*
@@ -34,7 +37,6 @@ My name is Ethan Rong and I am a second year CS 💻/business 📈 student from 
   * [Connect Four 4️⃣](https://github.com/ethan-rng/connectFour) - A version of the classic ConnectFour game that you can play with your friends over the LAN
 
 ## 📫 How to reach me:
-```javascript
-const gmail = "ethan.rong@gmail.com";
-const linkedIn = "https://www.linkedin.com/in/ethanrong2004/";
-const instagram = "https://www.instagram.com/ethan.rng/";
+Gmail: ethan.rong@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/ethanrong2004/ <br>
+Instagram: https://www.instagram.com/ethan.rng/ <br>
