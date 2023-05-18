@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </p>
-My name is Ethan Rong and I am a second year CS 💻/business 📈 student from the University of Western Ontario **🟪⬜**. My primary interests reside in applications of machine learning 🤖 and backend design including API design and I always eager to take on a new challenge!
+My name is Ethan Rong and I am a second year CS 💻/business 📈 student from the University of Western Ontario 🟪⬜. My primary interests reside in applications of machine learning 🤖 and backend design including API design and I always eager to take on a new challenge!
  
 ## 🛠  Languages and Skills
 <p>
