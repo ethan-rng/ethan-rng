@@ -3,7 +3,7 @@
 My name is Ethan Rong and I am a second year CS 💻/business 📈 student from the University of Western Ontario **🟪⬜**. My primary interests reside in applications of machine learning 🤖 and backend design including API design and I always eager to take on a new challenge!
 
 ## 💡 Skills
-I've primarily work with Python libaries such as **pandas 🐼**, **numpy 🔢** and **Flask ⚗️**, but have dabbled in front-end JS libaries such as **React 😮** and tailwind. On top of **Python** and **JS**, I've also coded with **Java** in my school 🏫 work and in my internship at the Ontario government.
+I've primarily work with Python libaries such as **pandas 🐼**, **numpy 🔢** and **Flask ⚗️**, but have dabbled in front-end **JS** libaries such as **React 😮** and tailwind. On top of **Python** and **JS**, I've also coded with **Java** in my school 🏫 work and in my internship at the Ontario government.
 
 ## ⚡ Fun facts about me
  &nbsp; &nbsp;  **1.** I am proud owner of one cat 🐱 named Lubey who is a British short-hair breed. <br>
