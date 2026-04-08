@@ -22,7 +22,8 @@ This page showcases some of my side projects and ideas outside of work. If you a
 ## Fun facts about me
 ```javascript
 const funFacts = {
-     funFact1: "I am a proud owner of a British Shorthair cat named Lubey.",
-     funFact2: "I used to play the saxophone and piano.",
-     funFact3: "I enjoy cooking, with pork tonkatsu being one of my favorite dishes."
+  funFact1 : "2. I am a proud owner of one cat 🐱 named Lubey who is a British short-hair breed.",
+  funFact2 : "3. I used to play the saxophone 🎷and piano 🎹.",
+  funFact3 : "3. I am a huge cook with my favourite dish to cook being pork tonkatsu 🍛."
 }
+```
