@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </p>
 
-My name is Ethan Rong, and I am a fourth-year Computer Science and Business student at the University of Western Ontario. I have previously worked at companies such as Meta and the Ontario Public Service (OPS).
+My name is Ethan Rong, and I am a fifth-year Computer Science and Business student at the University of Western Ontario. I have previously worked at companies such as Meta and the Ontario Public Service (OPS).
 This page showcases some of my side projects and ideas outside of work. If you are new or don’t know who I am, here are a few non-work-related fun facts:
 
 ## Fun facts about me
